@@ -1,0 +1,110 @@
+.heading{
+    text-align: center;
+    color: red;
+    
+}
+h2{
+    font-size: 40px;
+}
+.poster{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 125px;
+}
+.flags{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.header{
+    background-color:#d7c7c199;
+}
+.India{
+    height: 100px;
+}
+.Indianflag{
+    padding-left: 60px;
+
+
+}
+/*.No1{
+    padding-left: 10px;
+}
+*/
+.Uk{
+    height: 100px;
+}
+
+.Usa{
+    height: 100px;
+}
+.China{
+    height: 100px;
+}
+.Australia{
+    height: 100px;
+}
+.Cases{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.Major{
+   text-align: center;
+   font-family:serif;
+   font-size: 40px;
+}
+table tr:hover{  
+    background: #38a965;
+}
+table {
+    font-family:sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #111111;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #cfc0c0;
+  }
+.head{
+    background-color: red;
+}
+.logo{
+    height: 100px;
+    
+}
+footer{
+    width: 100%;
+    position: absolute;
+    bottom: auto;
+    background-image: url(https://caricom.org/wp-content/uploads/covid-19-ivi-global-education.png);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.para{
+    font-family: sans-serif;
+}
+.contact{
+    display: flex;
+    margin-left: 550px;
+    flex-direction: row;
+    font-family:serif;
+    font-size: large;
+}
+.maillogo{
+    height: 50px;
+    border-radius: 2px;
+}
+.mail{
+    padding-left: 10px;
+}
